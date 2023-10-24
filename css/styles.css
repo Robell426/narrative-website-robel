@@ -11412,7 +11412,7 @@ header.masthead-2{
 header.masthead-3{
   padding-top: 10rem;
   padding-bottom: calc(10rem - 4.5rem);
-  background: linear-gradient(to bottom, rgba(92, 77, 66, 0.8) 0%, rgba(92, 77, 66, 0.8) 100%), url("../assets/img/hotel.jpg");
+  background:  url("../assets/img/hotel.jpg");
   background-position: center;
   background-repeat: no-repeat;
   background-attachment: scroll;
@@ -11422,7 +11422,7 @@ header.masthead-3{
 header.masthead-4{
   padding-top: 10rem;
   padding-bottom: calc(10rem - 4.5rem);
-  background: linear-gradient(to bottom, rgba(92, 77, 66, 0.8) 0%, rgba(92, 77, 66, 0.8) 100%), url("../assets/img/destination.jpeg");
+  background:  url("../assets/img/destination.jpeg");
   background-position: center;
   background-repeat: no-repeat;
   background-attachment: scroll;
@@ -11432,7 +11432,7 @@ header.masthead-4{
 header.masthead-5{
   padding-top: 10rem;
   padding-bottom: calc(10rem - 4.5rem);
-  background: linear-gradient(to bottom, rgba(92, 77, 66, 0.8) 0%, rgba(92, 77, 66, 0.8) 100%), url("../assets/img/transport.jpeg");
+  background:  url("../assets/img/transport.jpeg");
   background-position: center;
   background-repeat: no-repeat;
   background-attachment: scroll;
