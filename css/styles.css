@@ -11357,6 +11357,7 @@ hr.divider-light {
   }
   #mainNav .navbar-brand {
     color: rgba(255, 255, 255, 0.7);
+    margin-left: auto;
   }
   #mainNav .navbar-brand:hover {
     color: #fff;
@@ -11364,7 +11365,7 @@ hr.divider-light {
   #mainNav .navbar-nav .nav-item .nav-link {
     color: white;
     padding: 0 1rem;
-    font-size: medium;
+    font-size: large;
   }
   #mainNav .navbar-nav .nav-item .nav-link:hover {
     color: #fff;
