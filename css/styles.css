@@ -11350,6 +11350,7 @@ hr.divider-light {
 #mainNav .navbar-nav .nav-item .nav-link.active {
   color: #f4623a !important;
 }
+
 @media (min-width: 992px) {
   #mainNav {
     box-shadow: none;
@@ -11360,6 +11361,7 @@ hr.divider-light {
   }
   #mainNav .navbar-brand:hover {
     color: #fff;
+    text-decoration: underline
   }
   #mainNav .navbar-nav .nav-item .nav-link {
     color: white;
@@ -11368,6 +11370,7 @@ hr.divider-light {
   }
   #mainNav .navbar-nav .nav-item .nav-link:hover {
     color: #fff;
+    text-decoration: underline;
   }
   #mainNav .navbar-nav .nav-item:last-child .nav-link {
     padding-right: 0;
