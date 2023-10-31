@@ -11356,8 +11356,7 @@ hr.divider-light {
     background-color: black;
   }
   #mainNav .navbar-brand {
-    color: rgba(255, 255, 255, 0.7);
-    margin-left: auto;
+    color: white;
   }
   #mainNav .navbar-brand:hover {
     color: #fff;
