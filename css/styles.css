@@ -600,8 +600,10 @@ progress {
 }
 
 .img-fluid {
-  max-width: 100%;
-  height: auto;
+  text-align: center !important;
+  background-position: center;
+  height: 500px;
+  margin-top: 5%;
 }
 
 .img-thumbnail {
@@ -7704,6 +7706,8 @@ textarea.form-control-lg {
 
 .text-center {
   text-align: center !important;
+  background-position: center;
+  margin-bottom: auto;
 }
 
 .text-decoration-none {
